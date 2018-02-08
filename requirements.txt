@@ -1,0 +1,9 @@
+get==0.0.39
+numpy==1.14.0
+opencv-contrib-python==3.4.0.12
+opencv-python==3.4.0.12
+Pillow==5.0.0
+post==0.0.26
+public==0.0.65
+query-string==0.0.28
+request==0.0.26
